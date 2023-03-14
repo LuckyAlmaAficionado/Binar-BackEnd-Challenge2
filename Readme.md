@@ -13,4 +13,4 @@
 
 ## Tech
 Aplikasi ini dibangun dengan menggunakan :
-- [intellij IDEA Community Edition 2022.3.2] (https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC) aplikasi Intellj adalah editor kode sumber komersial. Ini secara native mendukung beberapa bahasa pemrograman diantaranya (Java, Kotlin, Dart, dll) dan bahasa markup. Pengguna dapat memperluas fungsinya dengan plugin dan logika, biasanya dibuat dan dipelihara oleh komunitas di bawah lisensi perangkat lunak
+- [intellij IDEA Community Edition 2022.3.2] (https://www.jetbrains.com/idea/download) aplikasi Intellj adalah editor kode sumber komersial. Ini secara native mendukung beberapa bahasa pemrograman diantaranya (Java, Kotlin, Dart, dll) dan bahasa markup. Pengguna dapat memperluas fungsinya dengan plugin dan logika, biasanya dibuat dan dipelihara oleh komunitas di bawah lisensi perangkat lunak.
