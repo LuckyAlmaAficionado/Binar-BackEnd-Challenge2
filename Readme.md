@@ -1,6 +1,6 @@
-#PROGRAM PEMBACA CSV DAN CREATE TXT
+# PROGRAM PEMBACA CSV DAN CREATE TXT
 
-##Nama Anggota
+## Nama Anggota
 - Yanuarista
 - Josua
 - Fahrazi
