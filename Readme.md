@@ -3,7 +3,7 @@
 ## Nama Anggota
 - Yanuarista
 - Josua
-- Fahrazi
+- Ivallavi Fahrazi
 - Lucky Alma Aficionado Rigel
 
 ## Features BackEnd CSV
